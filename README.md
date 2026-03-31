@@ -64,5 +64,3 @@ Useful Links
 
 ✅ Conclusion
 This project helped in developing essential digital skills required for students in today’s technology-driven world. It also enhanced awareness about online safety and professional communication.
-
-⭐ *This repository is part of my academic submission and digital portfolio.*
